@@ -1,0 +1,1 @@
+webpackJsonp([0],[function(o,e){throw new Error("Module build failed: AssertionError [ERR_ASSERTION]: HappyPack: plugin for the loader 'happybabel' could not be found! Did you forget to add it to the plugin list?\n    at Object.HappyLoader (C:\\珠峰培训\\备课\\高校\\jd\\jd案例\\node_modules\\happypack\\lib\\HappyLoader.js:26:3)")}],[0]);

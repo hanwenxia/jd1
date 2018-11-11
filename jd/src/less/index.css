@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.lt {
+  float: left;
+}
+.rt {
+  float: right;
+}
+.ofh,
+.ovf {
+  overflow: hidden;
+}
+.text_over {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.pt50 {
+  padding-top: 1.33333333rem;
+}
